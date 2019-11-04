@@ -1,0 +1,3 @@
+[submodule "SubmodulesRepoSub"]
+	path = SubmodulesRepoSub
+	url = https://github.com/martenkaupmees/SubmodulesRepoSub.git
